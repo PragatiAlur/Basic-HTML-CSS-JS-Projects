@@ -1,0 +1,50 @@
+h1{
+    font-size: 42px;
+    color: #cdc9c3;
+}
+hr{
+    width: 500px;
+    color: orange;
+}
+body{
+    background-color: black;
+}
+#main{
+    text-align: center;
+    box-sizing: border-box;
+    font-family: 'Sansita Swashed', cursive;;
+    
+}
+button{
+    text-align: center;
+    font-size: 25px;
+    background-color: #4E4545;
+    border-radius: 100px;
+    cursor: pointer;
+    width: 102px;
+    height: 90px;
+    margin: 6px;
+    color:white;
+}
+button:hover{
+    background-color: #cdc9c3;
+}
+
+table{
+    margin: auto;
+    
+    padding: 4px;
+    border-top: none;
+}
+#screen{
+    color: white;
+    border: none;
+    background-color:black;
+    font-size:34px;
+    height: 65px;
+    width: 456px;
+}
+
+.operator{
+    background-color: orange;
+}
